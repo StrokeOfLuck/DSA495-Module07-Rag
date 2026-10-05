@@ -2,6 +2,14 @@
 
 Sean Ryan's copy of Serena Kim's [Module07 course materials](https://github.com/SerenaYKim/DSA495-TextAnalysis/tree/master/Module07), adapted to load its knowledge base directly from GitHub.
 
+## Interactive document explorer
+
+**[Open the Module07 HTML page](https://htmlpreview.github.io/?https://github.com/StrokeOfLuck/DSA495-Module07-Rag/blob/main/index.html)** · [HTML source](index.html)
+
+Type any question, inspect verbatim retrieved passages, and open their exact source context. The page follows Sean's portfolio style and includes notebook activity notes, editable prompts, citation checks, and a notes download.
+
+Browser retrieval uses BM25. Run Phi-4-mini in the linked Colab notebook for generated answers and MiniLM semantic retrieval. The source text is embedded for offline search; external links need internet access. Rebuild the embedded text when repository data changes.
+
 ## Open the notebook
 
 **[Run in Google Colab](https://colab.research.google.com/github/StrokeOfLuck/DSA495-Module07-Rag/blob/main/Module07/DSA495-M07-RAG-Phi4.ipynb)** · [View on GitHub](Module07/DSA495-M07-RAG-Phi4.ipynb)
