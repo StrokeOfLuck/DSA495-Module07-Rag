@@ -1,0 +1,21 @@
+{
+  "collection": "Module07 renewable energy",
+  "provided_at": "2026-10-05",
+  "original_course_documents": 3,
+  "included_documents": 2,
+  "missing_course_document": "Columbia renewable-energy report TXT",
+  "files": [
+    {
+      "path": "data/knowledgebase/EPA_End_of_Life_Solar_Panels.txt",
+      "bytes": 8589,
+      "sha256": "3fa76d13830ef3066bb64fb105ca54a76c01e899fa4fb3272604e571b0e140a6",
+      "provenance": "User-uploaded file, preserved unchanged"
+    },
+    {
+      "path": "data/knowledgebase/DOE_Wind_Energy_FAQ.txt",
+      "bytes": 18519,
+      "sha256": "e246ca646ba65a55b10854676fce3a8d12d2847c9af785d7be88300f6cb4cd0c",
+      "provenance": "User-uploaded file, preserved unchanged"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+End-of-Life Solar Panels: Regulations and Management
+Publisher: U.S. Environmental Protection Agency
+Source: https://www.epa.gov/hw/end-life-solar-panels-regulations-and-management
+Page last updated: September 30, 2026
+Retrieved: October 3, 2026 (America/New_York)
+
+Extraction notes: Main article wording retained; formatting and whitespace standardized. Website navigation, interface messages, and contact/footer material removed. The state-policy table is represented as state-policy pairs. Link labels retained; consult the source webpage for linked references. The solar panel photograph is omitted and marked in the text. This is a snapshot of the webpage, not an independent verification or update of its statements.
+
+Solar is a fast-growing energy source that is vital to the U.S. effort to reduce fossil fuel use. When solar panels, which typically have a lifespan of more than 25 years, reach the end of their lives and become a waste stream, they must be managed safely. Find information here about different types of solar panels and how they are regulated at end of life.
+
+If you are disposing of solar panels that are hazardous waste, then regulations under the Resource Conservation and Recovery Act must be followed to make sure the panels are safely recycled or disposed of.
+
+[Image omitted: Solar panel photograph. View the original image on the source webpage.]
+
+Background
+
+Solar panels provide clean, renewable energy from the sun, and their prevalence as an energy source has been growing. In 2020, solar panels provided about 40 percent of new U.S. electric generation capacity, compared to just four percent in 2010. Overall, 3.3 percent of electricity in the United States was produced using solar technologies in 2020. For more information on these statistics and additional solar energy generation information, visit the U.S. Energy Information Administration Monthly Energy Review and the U.S. Department of Energy’s Quarterly Solar Industry Update page.
+
+While in use, solar panels safely generate electricity without creating any air emissions. However, like any source of energy, there are associated wastes that need to be properly recycled or disposed of when solar panels reach their end of life. As the solar photovoltaic market grows, so will the volume of end-of-life panels. By 2030, the United States is expected to have as much as one million total tons of solar panel waste. For comparison, the total generation of U.S. municipal solid waste in 2018 was 292.4 million tons. By 2050, the United States is expected to have the second largest number of end-of-life panels in the world, with as many as an estimated 10 million total tons of panels. For more information on these and other solar panel waste projections, visit the International Renewable Energy Agency (IRENA) report on end-of-life solar panel management.
+
+Types of Solar Panels
+
+The two most common types of solar panels are crystalline-silicon and thin film solar panels.
+
+Silicon Solar (mono- and poly-crystalline)
+
+Crystalline-silicon solar PV represents over 95 percent of solar panels sold today. This type of panel contains solar cells made from a crystal silicon structure. These solar panels typically contain small amounts of valuable metals embedded within the panel, including silver and copper. Crystalline-silicon solar panels are efficient, low cost, and have long lifetimes, with modules expected to last for 25 years or longer.
+
+Thin-Film Solar
+
+Thin-film solar cells contain thin layers of semiconductor material, such as cadmium telluride (CdTe) or copper indium gallium diselenide, layered on a supporting material such as glass, plastic, or metal. CdTe is the second-most common PV material after silicon, and cells can be made using low-cost manufacturing processes, but their efficiencies aren't as high as silicon solar PV.
+
+Are Solar Panels Hazardous Waste?
+
+Hazardous waste testing on solar panels in the marketplace has indicated that different varieties of solar panels have different metals present in the semiconductor and solder. Some of these metals, like lead and cadmium, are harmful to human health and the environment at high levels. If these metals are present in high enough quantities in the solar panels, solar panel waste could be a hazardous waste under RCRA.
+
+Some solar panels are considered hazardous waste, and some are not, even within the same model and manufacturer. Homeowners with solar panels on their houses should contact their state/local recycling agencies for more information on disposal/recycling.
+
+Overview of Hazardous Waste Regulations
+
+Federal solid and hazardous waste regulations (i.e., the RCRA requirements ) apply to solar panels when they are discarded. When a solar panel reaches the end of its usable life or is otherwise discarded, it becomes solid waste. Solid waste is regulated federally under RCRA Subtitle D and through state and local government programs.
+
+The discarded solar panel, which is now considered solid waste, may then also be regulated under RCRA Subtitle C as hazardous waste if it is determined to be hazardous. The most common reason that solar panels would be determined to be hazardous waste would be by meeting the characteristic of toxicity.
+
+Heavy metals like lead and cadmium may be leachable at such concentrations that waste panels would fail the toxicity characteristic leaching procedure, a test required under RCRA to determine if materials are hazardous waste. If the generator of the solar panels knows from previous experience that the material would fail the TCLP (toxicity characteristic leaching procedure) test, they can determine that the waste is hazardous without the need for testing.
+
+While heavy metals are present in most solar panels, there are a variety of manufacturers and models, with different materials used as semiconductors. Because of the variation in design and components, testing has shown that some solar panels may pass the TCLP while others fail.
+
+Hazardous waste solar panels that are recycled may be able to use regulatory exclusions available under RCRA, including the transfer-based exclusion (Title 40 of the Code of Federal Regulations section 261.4(a)(24)) in states that have adopted the 2015 or 2018 Definition of Solid Waste Rule. The transfer-based exclusion is a regulatory exclusion for hazardous secondary material that is recycled, as long as certain criteria laid out in the regulations are followed.
+
+This conditional exclusion is designed to encourage recycling of materials by third parties while still providing a regulatory framework that prevents mismanagement.
+
+Universal Waste Solar Panel and Lithium Battery Proposal
+
+On October 23, 2023, EPA announced a new rulemaking effort to improve the recycling and management of end-of-life solar panels and lithium batteries. EPA is developing a proposed rule to add solar panels to the universal waste regulations and to add tailored universal waste standards for lithium batteries. EPA is working on this rulemaking in part in response to a petition submitted by a broad coalition of industry associations to regulate solar panels as universal waste.
+
+EPA is also working on adjustments within the universal waste regulations to improve safety standards and reduce fires from mismanaged end-of-life lithium batteries. Read about this effort on our website.
+
+State Solar Panel End-of Life Policies
+
+Some states have enacted laws, regulations, and policies impacting solar panel waste, including:
+
+State: Corresponding policy
+
+California: State Universal Waste for PV Modules
+
+Hawaii: State Universal Waste Regulations for Solar Panels (pdf)(880 KB)
+
+New Jersey: Solar Panel Recycling Commission
+
+North Carolina: Department of Environmental Quality and Environmental Management Commission report on the Regulatory Program for the Management and Decommissioning of Renewable Energy Equipment (pdf)(5.4 MB)
+
+Washington: Photovoltaic Module Stewardship and Takeback Program
+
+Note: The list above is not comprehensive.
+
+For more information on solar panel regulatory activity at the state level, please visit your state’s environmental agency website.
+
+Additional Resources
+
+For more information on environmental impacts and benefits of solar panels, please visit the following resources:
+
+* Frequent questions on solar panel waste.
+
+* EPA solar panel recycling web page.
+
+* Re-powering America’s Land program for siting renewable energy on contaminated sites, landfills and more.
+
+* EPA’s Green Power Partnership Program.
+
+* EPA information about State Renewable Energy Policies.
+

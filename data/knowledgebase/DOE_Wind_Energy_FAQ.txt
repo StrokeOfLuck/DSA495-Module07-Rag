@@ -1,0 +1,186 @@
+Frequently Asked Questions about Wind Energy
+Publisher: U.S. Department of Energy
+Source: https://www.energy.gov/cmei/systems/frequently-asked-questions-about-wind-energy
+Retrieved: October 3, 2026 (America/New_York)
+
+Extraction notes: FAQ wording retained; formatting and whitespace standardized. Website navigation and interface labels removed. Link labels retained; consult the source webpage for linked references. The Wind Development Process image is omitted and marked in the text. This is a snapshot of the webpage, not an independent verification or update of its statements.
+
+This page answers frequently asked questions about wind energy. Refer to our information resources to access additional energy basics, publications, maps, and multimedia resources.
+
+FAQ 01: What is wind energy and how do wind turbines work?
+
+Wind energy (or wind power) refers to the process by which wind turbines convert the movement of wind into electricity. Wind is caused by the sun’s uneven heating of the atmosphere, the irregularities of the Earth's surface, and the rotation of the Earth. Humans use wind for many purposes: sailing boats, pumping water, and generating electricity. Wind turbines convert the kinetic energy of the moving air into electricity.
+
+A wind turbine works like a fan but in reverse: instead of using electricity to make wind like a fan, wind turbines use wind to make electricity. The wind turns the turbine's blades, which spin a shaft connected to a generator to make electricity. Learn more about how a wind turbine works or view an interactive wind turbine animation to explore power plants, gearboxes, and everything in between.
+
+For more information, watch our Energy 101 video.
+
+FAQ 02: How can I get a wind turbine or wind farm at my house or property?
+
+The basic steps for installing a small wind turbine on your property are:
+
+1. Determine whether the wind resource in your area makes a small wind system economical.
+
+2. Determine your household electricity needs by looking at monthly or yearly electricity usage.
+
+3. Find out whether local zoning ordinances will allow wind turbine installations.
+
+4. Purchase and install a wind turbine sized to the needs of your household.
+
+5. Decide where to place the turbine.
+
+While there have been instances of wind turbines mounted on rooftops, it should be noted that all wind turbines vibrate and transmit the vibration to the structure on which they are mounted. This can lead to noise problems within the building. Also, the wind resource on the rooftop is in an area of increased turbulence, which can shorten the life of the turbine and reduce energy production.
+
+Additional costs related to mitigating these concerns, combined with the fact that roof-mounted turbines produce less power, make rooftop-mounted wind turbines less cost-effective than small wind systems that are installed on a tower connected to the ground. For more information, see Deployment of Wind Turbines in the Built Environment: Risks, Lessons, and Recommended Practices.
+
+For more information, please visit our Frequently Asked Questions on Small Wind Systems.
+
+FAQ 03: How much energy comes from wind in the United States?
+
+Wind turbines operating in all 50 states generate more than 10% of the country’s total electricity generation. U.S. wind power has a cumulative installed capacity of over 150,000 megawatts (150 gigawatts).
+
+FAQ 04: Where are wind farms located?
+
+Land-based utility-scale wind farms are located all across the United States, with the majority of projects concentrated in the Midwest and Texas. Distributed wind projects (wind turbines installed near where the power will be used) are in all 50 states, the District of Columbia, Puerto Rico, the U.S. Virgin Islands, and Guam. Offshore wind projects are located off the coasts of Virginia and Block Island, Rhode Island. The U.S. Wind Turbine Database provides the locations of land-based and offshore wind turbines across the country, including corresponding wind project information and turbine technical specifications.
+
+Wind provided more than 10% of electricity nationwide, over 50% in Iowa, South Dakota, and Kansas, and over 30% in Oklahoma, New Mexico, North Dakota and Nebraska. Globally, the United States ranks second behind China in both installed capacity and electricity generation from wind. Denmark, Portugal, Ireland, and others get more than 20% of their nations’ electricity from wind.
+
+FAQ 05: What is the wind resource like in my area?
+
+DOE provides validated, high-resolution state wind maps that show average wind speeds at several different heights above the ground (appropriate for different sized turbines). These maps provide a good overview of a state's wind resources. However, wind resources can significantly vary thanks to local site characteristics such as trees, hills, and buildings, so you should get a professional evaluation of your specific site before purchasing and installing a wind energy system.
+
+FAQ 06: What happens to the electricity supply when the wind isn’t blowing?
+
+The U.S. power grid consists of a huge number of interconnected transmission lines that connect a variety of generation sources to loads. The wind does not always blow, and the sun does not always shine, which creates additional variability and uncertainty (as nobody can perfectly forecast wind or solar output).
+
+But power grid operators have always had to deal with variability. Many forms of power generation can unexpectedly trip offline without notice and some only produce power at certain times. There is also uncertainty due to ever-changing loads (energy demand) that cannot be perfectly predicted.
+
+Grid operators use the interconnected power system to access other forms of generation when contingencies occur and continually turn generators on and off when needed to meet the overall grid demand. Integrating variable renewable power to the grid does not change how this process of balancing electricity supply and demand works.
+
+FAQ 07: How are wind farms developed?
+
+Commercial wind farms are typically built by wind energy developers using private sources of financing. The U.S. Department of Energy (DOE) maintains that it is important for energy project developers to engage with the local community, state and local authorities, and other stakeholders early and often in the siting and development process.
+
+Before installing turbines, the developer will assess the wind resource at a particular site by collecting meteorological data, determining access to transmission lines, and considering environmental and community impacts.
+
+If sufficient wind resources are found, the developer will secure land leases from property owners, obtain the necessary permits and financing, and purchase and install wind turbines. The completed facility is often sold to an independent operator (called an independent power producer) who generates electricity to sell to the local utility, although some utilities own and operate wind farms directly.
+
+[Figure omitted: Wind Development Process. View the original figure on the source webpage.]
+
+For more information on the wind farm development process, please visit WINDExchange.
+
+FAQ 08: How do wind turbines affect wildlife on land and in the ocean as well as human health?
+
+Wildlife
+
+As with all energy projects, wildlife impacts from wind project development vary by location. The wind industry incorporates pre- and post-development studies, educated siting, and other impact reduction tools to decrease wildlife impacts.
+
+Research shows that wind projects rank near the bottom of the list of human-related bird mortalities, resulting in far fewer annual deaths than those caused by house cats, building collisions, or vehicle impacts. Since 2000, the impact of wind development on birds has been reduced by improvements in turbine design and particularly through improved project and turbine siting.
+
+To understand how to avoid, minimize, and mitigate potential impacts from wind development, DOE has invested in peer-reviewed research for more than 20 years through collaborative partnerships with federal regulatory organizations, the wind industry, and environmental organizations, including the Renewable Energy Wildlife Institute and the Bats and Wind Energy Cooperative.
+
+Despite concerns about stranded whales along the U.S. East Coast, there is no evidence for the cause being noise from offshore wind energy development, according to the Bureau of Ocean Energy Management and the National Oceanic and Atmospheric Administration in accordance with the Marine Mammal Commission and New Jersey Department of Environmental Protection. These federal agencies, partners, and the U.S.
+
+Department of Energy continue to monitor and gather data on whale mortality events. Their ongoing R&D aims to better understand, assess, and mitigate the environmental and wildlife impacts of renewable energy to protect and promote marine mammals during offshore wind farm development.
+
+For more information about the Integrated Energy Systems Office’s work in this area, visit our Environmental Impacts and Siting webpage. For additional context and resources, see the WINDExchange webpage on wildlife impacts.
+
+Human Health
+
+Although research to develop sound mitigation techniques is ongoing, global peer-reviewed scientific data and independent studies consistently conclude that sound from wind plants has no direct impact on physical human health.
+
+The sound level from wind turbines at common residential setbacks is not sufficient to cause hearing impairment or other direct adverse health effects. Low frequency sound and infrasound from upwind wind turbines are also well below the pressure of sound levels known to affect health.
+
+While some wind turbines may cause a shadow flicker when the blades of the turbine pass between the sun and the observer, this effect can only be seen from a distance of less than 1,400 meters from the turbine during certain seasons and times of day. Furthermore, when shadow flicker is present, it typically occurs at a frequency of 0.3–1.1 Hertz (Hz), which is well below the threshold known to elicit seizures in those with epilepsy.
+
+Past research from DOE's Lawrence Berkeley National Laboratory has helped quantify the health benefits of wind plants.
+
+FAQ 09: Do wind turbines make noise?
+
+Wind turbines can create two kinds of sound: a mechanical hum produced by the generator and a “whooshing” sound produced by the blades moving through the air. Most wind turbines are designed so that the turbine is upwind of the tower, which mitigates low-frequency and impulsive sound. The presence of turbine sound depends on atmospheric conditions, and the ability for humans to perceive wind turbine sound varies based on the presence of other nearby sources of sound and site-specific topography.
+
+However, the sound pressure levels for modern wind turbines at distances greater than 400 meters are typically less than 40 decibels (dBA), which is comparable to the lowest limit of urban ambient sound.
+
+Depending on the site, proximity to nearby residences, and the permitting regulations, wind farm developers are typically required to address potential sound issues in the permitting process through setback requirements and must demonstrate that the project will comply with the applicable sound level regulations. Setbacks are standards defined to create space between areas of concern and the wind project.
+
+Common areas of concern include property lines, inhabited structures, and public roads, as well as communication and electrical lines. Sound requirements create a standard maximum level of allowed sound due to the operation of wind systems. These standards often include a defined method of measuring sound level.
+
+There are no nationally or internationally defined standards for wind turbine setbacks, with many organizations or local governments defining their own standards, typically incorporated into town or county ordinances. For more information, see the WINDExchange webpage on wind turbine sound.
+
+FAQ 10: Where are wind turbines manufactured?
+
+Most of the components of wind turbines installed in the United States are manufactured domestically at the more than 500 wind-related manufacturing facilities across the United States. For more information, see our Wind Manufacturing and Supply Chain web page.
+
+FAQ 11: How can I find a job in the wind industry?
+
+American Clean Power, a renewable energy trade association, has a web page on careers in the wind industry that includes job postings from its members and other companies working in the industry. See DOE’s Wind Career Map to chart a path among the wind industry’s broad range of occupations and learn about experience and skill expectations, wage information, and educational requirements.
+
+For those interested in continuing education for careers in the wind industry, WINDExchange published a list of universities and community colleges offering wind energy training courses.
+
+FAQ 12: What funding opportunities are currently available from the U.S. Department of Energy?
+
+The Integrated Energy Systems Office (IESO) prefers to award funding for research and development activities, including research into and development of new inventions, through a competitive solicitation process.
+
+For a list of current opportunities from IESO, see our funding opportunities web page. To be considered for funding, proposals for energy research and development should be submitted in response to competitive solicitations posted on this page. Future solicitations are dependent on Congressional appropriations to DOE.
+
+DOE also awards competitively sourced funding for research and development through its Small Business Innovation Research (SBIR) program. Some projects may also qualify for loan guarantees from DOE. For more information, please visit the DOE Office of Energy Dominance Financing.
+
+If you are interested in applying for funding, but your project does not fit within the scope of the posted solicitations, you may submit a proposal to DOE's Unsolicited Proposal Office.
+
+FAQ 13: How can students learn about wind energy?
+
+The Wind for Schools project helps develop a future wind energy workforce by encouraging students at higher education institutions to join Wind Application Centers and serve as project consultants for small wind turbine installations at rural elementary and secondary schools. Wind for Schools project goals are to:
+
+* Improve wind energy workforce development through wind-focused deployment and educational activities.
+
+* Introduce teachers and students to wind energy.
+
+* Equip college juniors and seniors with an education in wind energy applications.
+
+* Engage America’s communities in wind energy applications, benefits, and challenges.
+
+Wind for Schools aims to educate college students in wind energy applications with a focus on hands-on small wind project development through classes and field work. The Wind Application Centers develop and share curricula, with each institution focusing on technical areas that are the strengths of the respective professors and institutions.
+
+The Wind for Schools project works closely with the KidWind Project and the National Energy Education Development Project to provide hands-on, interactive curricula that are supported through teacher training workshops in different states. The project has also provided teacher training science kits for use in the classroom, as well as links to additional teaching materials.
+
+Resources
+
+The following websites feature student-focused information on wind energy, including hands-on activities and lesson plans:
+
+Curricula and Lesson Plans
+
+* 4-H Group Wind Curriculum
+
+* National Energy Education Development Project K-12 wind curriculum
+
+Websites
+
+* U.S. Energy Information Agency: Energy Kids
+
+Books
+
+* Educators for the Environment: Energy for Keeps (includes a wind energy section)
+
+Videos
+
+* TED-Ed: A Guide to the Energy of the Earth
+
+* PBS SciGirls: Blowin’ in the Wind
+
+FAQ 14: Do wind farms pose a threat during extreme weather events like severe storms, tornadoes, or hurricanes?
+
+Wind turbines are required to be placed a minimum distance from inhabited buildings (known as a setback ordinance) to reduce risk to human safety in the case of a catastrophic event. For additional safety information, see section 2.8 of the Land-Based Wind Energy Siting report.
+
+While wind turbines are designed to automatically shut off at very high wind speeds, they—like any other piece of infrastructure including buildings—can be damaged by a direct hit of a tornado. One advantage that renewable energy sources like wind has over more centralized power plants (like coal or natural gas) is its distributed nature; if one or several wind turbines are damaged, the other turbines in the wind farm can keep operating and providing power.
+
+In the event lightning strikes a wind turbine, it will typically strike the tallest parts of the wind turbine, which are the blades. In the blades there are one or more metal parts exposed to the air that would be struck. These parts, or receptors, are connected to a steel cable (a “down conductor”) that conducts the electricity from lightning safely down the blade, through the nacelle, and down the tower to earth.
+
+FAQ 15: How do communities and wind developers choose locations for wind energy projects?
+
+Wind resource maps provide an estimate of the average wind speed at the hub height of a turbine, which help communities and wind developers choose the most cost-effective siting locations. Wind farms are built at a safe distance from populated areas and inhabited dwellings, and they are developed with thoughtful public engagement and thorough assessments of natural land features and hazards, local weather patterns, and historical data to minimize or eliminate negative impacts to wildlife and people.
+
+For more information, see the WINDExchange website, land-based wind siting report, and the DOE renewable energy siting webpage.
+
+FAQ 16: What is the size of the average wind turbine blade?
+
+The average wind turbine blade can weigh up to 65 tons, depending on the length of the blade and whether the wind turbine is for land-based or offshore applications. The nacelle—which is the covering for the turbine’s components—generally weighs 100-600 tons, depending on the generator capacity and configuration. If you are careful, you can stand up and walk inside of a modern wind turbine nacelle.
